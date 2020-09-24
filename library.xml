@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <catalogue name="technical-books">
+    <book>
+      <title>Engineering Mathematics</title>
+      <author>K. A. Stroud</author>
+      <isbn>1352010275</isbn>
+    </book>
+    <book>
+      <title>Statistical Tables</title>
+      <author>J. A. Barnes</author>
+      <isbn>0333558596</isbn>
+    </book>
+  </catalogue>
+  <catalogue name="cookery-books">
+    <book>
+      <title>How To Eat</title>
+      <author>Nigella Lawson</author>
+      <isbn>0701189185</isbn>
+    </book>
+    <book>
+      <title>Mary Berry Simple Comforts</title>
+      <author>Mary Berry</author>
+      <isbn>1785945076</isbn>
+    </book>
+  </catalogue>
+</library>
